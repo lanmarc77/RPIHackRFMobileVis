@@ -14,6 +14,6 @@
 
 ## How to configure autostart
 
-* Dowload the file run-graph.desktop and put it to _~/.config/autostart_ (maybe the folder autostart doesn't exist so do you have to create it  `mkdir ~/.config/autostart`
+* Dowload the file run-graph.desktop and put it to _~/.config/autostart_ (maybe the folder autostart doesn't exist so you have to create it  `mkdir ~/.config/autostart`
 * Once again, you'll probably don't need to change the path in the .desktop file, but if you need, do it with `nano` (you can renanme the file but you have to keep the **.desktop**)
 * Then reboot the Pi 
